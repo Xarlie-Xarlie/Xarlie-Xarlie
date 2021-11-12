@@ -11,19 +11,19 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="70px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
+[<img align="left" alt="Gmail" width="70px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="70px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Linkedin" width="70px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="70px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />][discord]
+[<img align="left" alt="Discord" width="70px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />][discord]
 
 <br />
 
 ---
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xarlie-Xarlie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xarlie-Xarlie&layout=compact&langs_count=7&theme=dracula">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Xarlie-Xarlie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xarlie-Xarlie&layout=compact&langs_count=7&theme=dracula">
 </div>
   
 ---  

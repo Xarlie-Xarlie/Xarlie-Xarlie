@@ -1,4 +1,4 @@
-## Hello there, Charlie Charlie is here
+## Hi there, Charlie Charlie is here
 
 - 🔭 I’m currently searching for new job 
 - 🌱 I’m currently learning NodeJS and ReactJS

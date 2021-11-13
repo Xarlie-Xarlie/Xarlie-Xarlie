@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with Software Engineering
 - 🎮 My nickname on games: CharlieCharlie
 - 🧠 I still want to learn a lot of things
-- 🎼 I love listening to music, especially Metal
+- 🎼 I love listening to music
 
 ---
 

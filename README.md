@@ -11,8 +11,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Gmail" width="70px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
-
 [<img align="left" alt="Linkedin" width="70px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 [<img align="left" alt="Discord" width="70px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />][discord]
@@ -40,6 +38,5 @@
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
-[gmail]: jeancharles552@gmail.com
 [discord]: https://support.discord.com/hc/pt-br/profiles/391209258491
 [linkedin]: linkedin.com/in/jean-charles-7813ba19b

@@ -39,4 +39,4 @@
 </div>
 
 [discord]: https://support.discord.com/hc/pt-br/profiles/391209258491
-[linkedin]: linkedin.com/in/jean-charles-7813ba19b
+[linkedin]: https://linkedin.com/in/jean-charles-7813ba19b

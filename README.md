@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Linkedin" width="70px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Linkedin" width="70px" src="https://www.linkedin.com/in/jean-charles-7813ba19b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVn2oQxWPQvK3YNa%2B%2FH%2FUBA%3D%3D" />][linkedin]
 
 [<img align="left" alt="Discord" width="70px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />][discord]
 

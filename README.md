@@ -1,6 +1,6 @@
 ## Hi there, Charlie Charlie is here
 
-- 🔭 I’m a Backend Developer ar Cross Commerce Store
+- 🔭 I’m a Backend Developer at Cross Commerce Store
 - 🌱 I’m currently learning Elixir and Phoenix
 - 🎮 My nickname on games: CharlieCharlie
 - 🧠 I still want to learn a lot of things
